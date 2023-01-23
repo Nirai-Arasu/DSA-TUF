@@ -6,7 +6,7 @@ def pattern_1(n):
         print("")
 
 
-n = int(input('Enter a value : '))
+n = int(input('Enter a value :'))
 
 print(n)
 pattern_1(n)
