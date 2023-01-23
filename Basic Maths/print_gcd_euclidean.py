@@ -14,4 +14,4 @@ def gcd(n1, n2):
 print(gcd(52, 10))
 
 
-# [ greater % smaller ] => if one of the two no. is zero than other no. is the gcd
+# [ greater % smaller ] => if one of the two no. is zero than other no.is the gcd
